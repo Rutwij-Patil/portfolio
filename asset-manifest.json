@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2b3918e7.css",
+    "main.css": "/portfolio/static/css/main.4ce85c69.css",
     "main.js": "/portfolio/static/js/main.ea4201ec.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Rutwij_resume.pdf": "/portfolio/static/media/Rutwij_resume.c8de3ef9c42e4b164b8f.pdf",
@@ -70,12 +70,12 @@
     "static/media/share.svg": "/portfolio/static/media/share.a883a1192304ab3d68d84df989833012.svg",
     "static/media/download.svg": "/portfolio/static/media/download.e9bc27552e3bf65550d548f3fc5f9c4c.svg",
     "static/media/contact.svg": "/portfolio/static/media/contact.18661cd2d7b0c752eae000b46608f427.svg",
-    "main.2b3918e7.css.map": "/portfolio/static/css/main.2b3918e7.css.map",
+    "main.4ce85c69.css.map": "/portfolio/static/css/main.4ce85c69.css.map",
     "main.ea4201ec.js.map": "/portfolio/static/js/main.ea4201ec.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b3918e7.css",
+    "static/css/main.4ce85c69.css",
     "static/js/main.ea4201ec.js"
   ]
 }
